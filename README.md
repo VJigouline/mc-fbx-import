@@ -1,6 +1,6 @@
 # mc-fbx-import
 
-A Autodesk FBX importer for [three.js](https://threejs.org/), written in TypeScript. It reads binary and ASCII FBX files (FBX 7.0 and later) with their meshes, materials, embedded or external textures, cameras, lights, skinning, morphs and animations. It was made for [SceneEditor](https://github.com/VJigouline/SceneEditor), and works in any three.js application.
+An Autodesk FBX importer for [three.js](https://threejs.org/), written in TypeScript. It reads binary and ASCII FBX files (FBX 7.0 and later) with their meshes, materials, embedded or external textures, cameras, lights, skinning, morphs and animations. It was made for [SceneEditor](https://github.com/VJigouline/SceneEditor), and works in any three.js application.
 
 ```ts
 import { loadFbx } from 'mc-fbx-import';
